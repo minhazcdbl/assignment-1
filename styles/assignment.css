@@ -131,6 +131,7 @@
 .skills-container{
     display: flex;
     gap: 60px;
+    text-align: left;
 }
 
 .skill{
