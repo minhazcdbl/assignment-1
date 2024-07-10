@@ -28,6 +28,23 @@
   text-align: center;
   color: rgba(255, 255, 255, 0.904);
 }
+
+.in-f{
+  background-color: #0D1321;
+  color: #FFFFFF;
+}
+
+.img-col-2{
+  background-color: #FFFFFF;
+  color: #0D1321;
+  
+  }
+
+  .t-ali{
+    display: flex;
+    text-align: center;
+    justify-content:center;
+  }
 .banner1{
     text-align: center;
    display: block;
@@ -67,7 +84,8 @@
 }
 
 .header-button{
-    color: black;
+  background-color: #0D1321;
+  color: #FFFFFF;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
