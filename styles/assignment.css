@@ -3,22 +3,31 @@
 .azeret-mono-normal {
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  /* font-weight: <weight>; */
   font-style: normal;
 }
 .header{
     background-image: url(../images/Hero-bg.png);
 }
 
-.support{
+.ss-img {
     background-image: url(../images/handshake.jpg);
-     background-repeat: no-repeat;
+    background-color: #cccccc;
+  height: 50px;
+   background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+    background-repeat: no-repeat;
      justify-content:center;
-     margin-left: auto;
-  margin-right: auto;
-        
+    padding: 150px;   
+    display: block;    
 }
 
+.img-col-1
+{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.904);
+}
 .banner1{
     text-align: center;
    display: block;
