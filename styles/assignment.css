@@ -140,9 +140,22 @@
     max-width: 580px;
 }
 
+.tar-1{
+  text-align: center;
+}
+
+.tar-2{
+  text-align: center;
+}
+
+.tar-3{
+  text-align: center;
+}
+
 .ph{
     
     text-align: center;
+    border-radius: 25px;
     
 }
 
@@ -150,6 +163,10 @@
     display: flex;
     gap: 60px;
     text-align: left;
+}
+
+.tar{
+  text-align: center;
 }
 
 .skill{
